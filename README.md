@@ -12,6 +12,8 @@ jollyjerry@gmail.com.
 * Never keep a balance on credit cards, autopay everything in full
 * Ask for a credit increase every 6 months
 * Refinance for a lower interest rate on mortgages or large loans
+* Extra principal payments earn an instant ROI equal to your interest rate times 1+(your tax rate). It is hard to guarantee a 6% ROI annually on any investment. Prepay when possible.
+* Get to 22% equity and drop PMI.
 
 ## Short term savings
 
@@ -26,6 +28,8 @@ jollyjerry@gmail.com.
 * Individual Retirement Account (IRA)
 * Charitable giving. Contributions to eligible organizations can be itemized as
   a deduction
+* Stick to low cost index funds. Fees matter. 
+* If possible, use alternate weighting in your index funds (equal weight or similar) as opposed to market-cap weighting. 
 
 ## Extras
 
