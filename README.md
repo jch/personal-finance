@@ -15,16 +15,26 @@ jollyjerry@gmail.com.
 
 ## Short term savings
 
+Savings for the upcoming 4 years.
+
 * Enough cash for emergencies and upcoming large purchases. e.g. cars, weddings,
   kids, college, accidents, vacations
-
+* Charitable giving. Contributions to eligible organizations can be itemized as
+  a deduction
+  
 ## Long term savings
+
+Savings for the upcoming 15 years.
+
+* ??? *I don't know what I'm doing* :money_with_wings:
+
+## Retirement savings
+
+Savings for when I'm old as dirt.
 
 * 401k. At least as much as any employer matching, more if possible.
   Traditional 401k is pretax, Roth 401k's sometimes available.
 * Individual Retirement Account (IRA)
-* Charitable giving. Contributions to eligible organizations can be itemized as
-  a deduction
 
 ## Extras
 
