@@ -28,7 +28,12 @@ jollyjerry@gmail.com.
 
 ## Extras
 
-* Health Savings Account (HSA)
+* Health Savings Account (HSA) 
+** Do not invest until balance would exceed minimum to avoid fees
+** preferably a plan that allows investment in index funds 
+*** Wells Fargo
+*** Health Savings Administrators
+** Continue to pay medical expenses out of pocket when possible
 * 529 plan - saving for education expenses
 
 ## Tools
