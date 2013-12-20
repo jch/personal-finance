@@ -26,6 +26,8 @@ Savings for the upcoming 4 years.
 
 Savings for the upcoming 15 years.
 
+* Health Savings Account (HSA)
+* 529 plan - saving for education expenses
 * ??? *I don't know what I'm doing* :money_with_wings:
 
 ## Retirement savings
@@ -36,10 +38,6 @@ Savings for when I'm old as dirt.
   Traditional 401k is pretax, Roth 401k's sometimes available.
 * Individual Retirement Account (IRA)
 
-## Extras
-
-* Health Savings Account (HSA)
-* 529 plan - saving for education expenses
 
 ## Tools
 
