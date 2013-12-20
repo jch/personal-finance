@@ -30,11 +30,14 @@ jollyjerry@gmail.com.
   a deduction
 * Stick to low cost index funds. Fees matter. 
 * If possible, use alternate weighting in your index funds (equal weight or similar) as opposed to market-cap weighting. 
+* One should omit complex, laborious, expensive, unreliable tactics that are alleged by some to enable one to achieve higher returns than the stock market average.
 
 
 ## Annual Budgets
 * Save more money annually by making small monthly adjustments. 
 * Buy items in bulk if we will use them over the course of a year. A 10% discount on a case of wine (that we would buy by the bottle anyway) is an instant 10% return (actually more, but read The Only Investment Guide since it's complex math.)
+* Caulk all of the drafty parts of the house. Best investment possible.
+* Annually, review all expense categories in aggregate (eg. $1200 for cable TV). Find ways to reduce those numbers (eg. $90 for Netflix) and save or invest the difference ($1110 goes to your brokerage). 
 
 ## Extras
 
