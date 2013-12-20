@@ -28,12 +28,7 @@ jollyjerry@gmail.com.
 
 ## Extras
 
-* Health Savings Account (HSA) 
-** Do not invest until balance would exceed minimum to avoid fees
-** preferably a plan that allows investment in index funds 
-*** Wells Fargo
-*** Health Savings Administrators
-** Continue to pay medical expenses out of pocket when possible
+* Health Savings Account (HSA) - 1) Do not invest until balance would exceed minimum to avoid fees 2) preferably a plan that allows investment in index funds like Wells Fargo or Health Savings Administrators 3) Continue to pay medical expenses out of pocket when possible to maximize tax deferred growth
 * 529 plan - saving for education expenses
 
 ## Tools
