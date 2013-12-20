@@ -40,3 +40,6 @@ jollyjerry@gmail.com.
 
 * [I Will Teach You to be Rich](http://www.amazon.com/gp/product/0761147489/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0761147489&linkCode=as2&tag=what0d-20)
 * [Quora Personal Finance](http://www.quora.com/Personal-Finance)
+* [How To Get Rich](http://www.amazon.com/How-Get-Rich-Greatest-Entrepreneurs/dp/1591842719)
+* [The Only Investment Guide You Will Ever Need](http://www.amazon.com/Only-Investment-Guide-Youll-Ever/dp/0547447256/ref=sr_1_1?s=books&ie=UTF8&qid=1387568480&sr=1-1&keywords=only+investment+guide)
+* [Money and Other Subjects](http://www.andrewtobias.com/column)
