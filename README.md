@@ -17,6 +17,7 @@ jollyjerry@gmail.com.
 
 * Enough cash for emergencies and upcoming large purchases. e.g. cars, weddings,
   kids, college, accidents, vacations
+* It's OK to keep this in your brokerage sweep account. In fact, have your direct deposit put there and schedule a transfer to your checking account in an amount that covers your budgeted expenses. 
 
 ## Long term savings
 
