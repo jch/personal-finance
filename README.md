@@ -31,6 +31,11 @@ jollyjerry@gmail.com.
 * Stick to low cost index funds. Fees matter. 
 * If possible, use alternate weighting in your index funds (equal weight or similar) as opposed to market-cap weighting. 
 
+
+## Annual Budgets
+* Save more money annually by making small monthly adjustments. 
+* Buy items in bulk if we will use them over the course of a year. A 10% discount on a case of wine (that we would buy by the bottle anyway) is an instant 10% return (actually more, but read The Only Investment Guide since it's complex math.)
+
 ## Extras
 
 * Health Savings Account (HSA) - 1) Do not invest until balance would exceed minimum to avoid fees 2) preferably a plan that allows investment in index funds like Wells Fargo or Health Savings Administrators 3) Continue to pay medical expenses out of pocket when possible to maximize tax deferred growth
