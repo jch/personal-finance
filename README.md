@@ -38,6 +38,7 @@ jollyjerry@gmail.com.
 * Buy items in bulk if we will use them over the course of a year. A 10% discount on a case of wine (that we would buy by the bottle anyway) is an instant 10% return (actually more, but read The Only Investment Guide since it's complex math.)
 * Caulk all of the drafty parts of the house. Best investment possible.
 * Annually, review all expense categories in aggregate (eg. $1200 for cable TV). Find ways to reduce those numbers (eg. $90 for Netflix) and save or invest the difference ($1110 goes to your brokerage). 
+* Set annual goals for your financial account balances. See goals.ods. When you hit a goal, celebrate. 
 
 ## Extras
 
