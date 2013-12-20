@@ -44,6 +44,17 @@ Savings for when I'm old as dirt.
 * Monthly review of spending with [Mint](https://www.mint.com). Categorize
   spending, note any large differences in monthly trends.
 
+## Questions
+
+> What is the advantage to having all debt paid off? There is no harm in a small
+> balance. Frees up capital to do other things. -dm
+
+If you have investments that earn at a faster rate than your loans, then you
+still come out ahead money-wise. I try to stay debt free as much as possible
+because it simplifies my finances and gives me peace of mind. The exception
+being my home mortgage, which is just too big to pay off quickly and provides
+some tax benefits.
+
 ## Resources
 
 * [I Will Teach You to be Rich](http://www.amazon.com/gp/product/0761147489/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0761147489&linkCode=as2&tag=what0d-20)
