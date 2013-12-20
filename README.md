@@ -1,4 +1,4 @@
-# Personal Finance ![](http://i.creativecommons.org/l/by/4.0/88x31.png)
+# Personal Finance [![Creative Commons](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/deed.en_US)
 
 This is an outline and checklist of our personal finance plan. I wanted to share
 this as a starting point for others to form their own plan, and also to get
