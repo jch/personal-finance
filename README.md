@@ -3,7 +3,8 @@
 This is an outline and checklist of our personal finance plan. I wanted to share
 this as a starting point for others to form their own plan, and also to get
 feedback on what we can improve. If you have a suggestion, feel free to [file an
-issue](issues) or email me at jollyjerry@gmail.com.
+issue](https://github.com/jch/personal-finance/issues) or email me at
+jollyjerry@gmail.com.
 
 ## Debt
 
