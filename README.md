@@ -43,6 +43,7 @@ jollyjerry@gmail.com.
 
 * Health Savings Account (HSA) - 1) Do not invest until balance would exceed minimum to avoid fees 2) preferably a plan that allows investment in index funds like Wells Fargo or Health Savings Administrators 3) Continue to pay medical expenses out of pocket when possible to maximize tax deferred growth
 * 529 plan - saving for education expenses
+* Brokerage Account - Keep at least *some* post-tax invements in stocks, even if you replicate the holdings of a mutual fund or index. Sell your losers for tax-loss harvesting, use your winners to fund charitable giving. 
 
 ## Tools
 
