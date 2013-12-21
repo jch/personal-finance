@@ -48,3 +48,4 @@ Savings for when I'm old as dirt.
 
 * [I Will Teach You to be Rich](http://www.amazon.com/gp/product/0761147489/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0761147489&linkCode=as2&tag=what0d-20)
 * [Quora Personal Finance](http://www.quora.com/Personal-Finance)
+* [/r/personalfinance's FAQ](http://www.reddit.com/r/personalfinance/wiki/faq)
