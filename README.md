@@ -36,6 +36,13 @@ jollyjerry@gmail.com.
   a deduction
 * Stick to low cost index funds. Fees matter.
 
+## Education
+
+* [529 plan](http://en.wikipedia.org/wiki/529_plan)
+* [Vanguard 529](https://personal.vanguard.com/us/whatweoffer/college/vanguard529)
+  * $3,000 minimum
+  * Age based options. I'm using the "moderate" option: starts at 75/25 stock/bond allocation
+
 ## Tools
 
 * Monthly review of spending with [Mint](https://www.mint.com). Categorize
