@@ -1,15 +1,29 @@
 # Personal Finance [![Creative Commons](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/deed.en_US)
 
-This is an outline and checklist of our personal finance plan. I wanted to share
-this as a starting point for others to form their own plan, and also to get
-feedback on what we can improve. If you have a suggestion, feel free to [file an
+This is an outline of our personal finance plan. I'm sharing this as a starting
+point for others to form their own plan, and also to gather feedback on what we
+can improve. If you have a suggestion, feel free to [file an
 issue](https://github.com/jch/personal-finance/issues) or email me at
 jollyjerry@gmail.com.
+
+## Introduction
+
+Money is a tricky subject to talk about. Every person's situation is different:
+age, salaries, lifestyles, goals. There are many topics, each with it's own
+rules, jargon, headaches. Once I understood the basics of one topic, new
+questions would form in my head, always increasing the choices to be made. The
+rabbit hole had no bottom.
+
+I felt overwhelmed.
+
+To break the gridlock, I organized things I learned into sections, tackling one
+completely before moving onto the next. This list isn't a prescription. It's
+what I found to work for our family.
 
 ## Debt
 
 * Pay off loans
-* Never keep a balance on credit cards, autopay everything in full
+* Never keep a balance on credit cards, auto-pay everything in full
 * Ask for a credit increase every 6 months, don't over do it
 * Carry less than 1/3 of credit limit in credit card balance
 * Check credit score once a year
@@ -48,7 +62,7 @@ jollyjerry@gmail.com.
 * Monthly review of spending with [Mint](https://www.mint.com). Categorize
   spending, note any large differences in monthly trends. Link all accounts.
 * Vanguard brokerage account. Using this for our Roth IRA and IRA.
-* Setup direct deposit and autopay for all accounts.
+* Setup direct deposit and auto-pay for all accounts.
 
 ## Resources
 
