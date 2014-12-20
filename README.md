@@ -26,7 +26,7 @@ what I found to work for our family.
 * Never keep a balance on credit cards, auto-pay everything in full
 * Ask for a credit increase every 6 months, don't over do it
 * Carry less than 1/3 of credit limit in credit card balance
-* Check credit score once a year
+* [Check credit score](https://www.annualcreditreport.com) once a year
 * Refinance for a lower interest rate on mortgages or large loans
 
 ## Liquidity
