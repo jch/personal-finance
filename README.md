@@ -37,9 +37,9 @@ what I found to work for our family.
 ## Medical
 
 * Health Savings Account (HSA). Maximize employer contributions.
-  1) Do not invest until balance would exceed minimum to avoid fees
-  2) preferably a plan that allows investment in index funds like Wells Fargo or Health Savings Administrators
-  3) Continue to pay medical expenses out of pocket when possible to maximize tax deferred growth
+  * Do not invest until balance would exceed minimum to avoid fees
+  * preferably a plan that allows investment in index funds like Wells Fargo or Health Savings Administrators
+  * Continue to pay medical expenses out of pocket when possible to maximize tax deferred growth
 
 ## Retirement
 
