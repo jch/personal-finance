@@ -62,6 +62,7 @@ what I found to work for our family.
 * Monthly review of spending with [Mint](https://www.mint.com). Categorize
   spending, note any large differences in monthly trends. Link all accounts.
 * Vanguard brokerage account. Using this for our Roth IRA and IRA.
+* [Traditional vs Roth contributions calculator](https://docs.google.com/spreadsheets/d/1rY6K7uZUJKbZd7qSKMvQI2fYug0Ed9cs1GVEMVE0Bx8/edit#gid=0)
 * Setup direct deposit and auto-pay for all accounts.
 
 ## Resources
