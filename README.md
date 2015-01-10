@@ -43,12 +43,11 @@ what I found to work for our family.
 
 ## Retirement
 
-* 401k. At least as much as any employer matching, more if possible.
-  Traditional 401k is pretax, Roth 401k's sometimes available.
-* Individual Retirement Account (IRA)
-* Charitable giving. Contributions to eligible organizations can be itemized as
-  a deduction
-* Stick to low cost index funds. Fees matter.
+* Calculate whether Traditional or Roth contribution makes sense for your tax bracket. [calculator](http://www.reddit.com/r/financialindependence/comments/2qua49/roth_vs_traditional_calculator/cn9l3x2)
+* Maximize contributions to tax advantaged accounts: 401k, IRA, HSA.
+* Explore [Backdoor Roth IRA](http://www.bogleheads.org/wiki/Backdoor_Roth_IRA) and "Mega backdoor Roth IRA".
+* Choose low cost index funds.
+* Charitable giving. Contributions to eligible organizations can be itemized as a deduction
 
 ## Education
 
@@ -62,7 +61,6 @@ what I found to work for our family.
 * Monthly review of spending with [Mint](https://www.mint.com). Categorize
   spending, note any large differences in monthly trends. Link all accounts.
 * Vanguard brokerage account. Using this for our Roth IRA and IRA.
-* [Traditional vs Roth contributions calculator](http://www.reddit.com/r/financialindependence/comments/2qua49/roth_vs_traditional_calculator/cn9l3x2)
 * Setup direct deposit and auto-pay for all accounts.
 
 ## Resources
