@@ -70,6 +70,7 @@ what I found to work for our family.
 * [I Will Teach You to be Rich](http://www.amazon.com/gp/product/0761147489/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0761147489&linkCode=as2&tag=what0d-20) - short, friendly, casual introduction to debit, savings, and retirement
 * [Quora Personal Finance](http://www.quora.com/Personal-Finance) - stopped using this
 * [Random Walk Down Wall Street](http://www.amazon.com/Random-Walk-Down-Wall-Street/dp/0393330338)
+* [Mr. Money Mustache](http://www.mrmoneymustache.com) - personal finance and early retirement blog
 
 ## Recommended by others
 
