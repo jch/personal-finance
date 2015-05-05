@@ -62,6 +62,7 @@ what I found to work for our family.
   spending, note any large differences in monthly trends. Link all accounts.
 * Vanguard brokerage account. Using this for our Roth IRA and IRA.
 * Setup direct deposit and auto-pay for all accounts.
+* [FI planning tool](http://www.reddit.com/r/financialindependence/comments/2zhw7t/heres_an_fi_planning_tool_i_made_that_might_help/). My [version with cash worksheet](https://docs.google.com/spreadsheets/d/1_upAOikpuNxHSqPFlldY1s93OnjyrTr4oEVYEi3Of50/edit?usp=sharing).
 
 ## Resources
 
