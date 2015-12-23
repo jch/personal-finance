@@ -29,7 +29,7 @@ jollyjerry@gmail.com.
 
 ## Retirement
 
-* Calculate whether Traditional or Roth contribution makes sense for your tax bracket. [calculator](http://www.reddit.com/r/financialindependence/comments/2qua49/roth_vs_traditional_calculator/cn9l3x2)
+* Calculate whether Traditional or Roth contribution makes sense for your tax bracket. [calculator](http://www.reddit.com/r/financialindependence/comments/2qua49/roth_vs_traditional_calculator/cn9l3x2). Typically, high income/high tax rate => traditional, low income/low tax rate => roth. Save on taxes now vs save on taxes later.
 * Maximize contributions to tax advantaged accounts: 401k, IRA, HSA.
 * Explore [Backdoor Roth IRA](http://www.bogleheads.org/wiki/Backdoor_Roth_IRA) and "Mega backdoor Roth IRA".
 * Choose low cost index funds.
