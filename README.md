@@ -65,5 +65,4 @@ jollyjerry@gmail.com.
 * [How To Get Rich](http://www.amazon.com/How-Get-Rich-Greatest-Entrepreneurs/dp/1591842719)
 * [The Only Investment Guide You Will Ever Need](http://www.amazon.com/Only-Investment-Guide-Youll-Ever/dp/0547447256/ref=sr_1_1?s=books&ie=UTF8&qid=1387568480&sr=1-1&keywords=only+investment+guide)
 * [Money and Other Subjects](http://www.andrewtobias.com/column)
-* [Reddit Personal Finance](http://www.reddit.com/r/personalfinance/wiki/faq)
 * [Pete Jackson feedback](https://github.com/jch/personal-finance/pull/2/files)
