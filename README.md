@@ -17,7 +17,7 @@ jollyjerry@gmail.com.
 
 ## Liquidity
 
-* 12 months of expenses
+* 12 months of expenses in a high interest savings account
 * Budget out large purchases into monthly amounts to save. e.g. car, wedding, vacation
 
 ## Medical
