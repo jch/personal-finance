@@ -54,7 +54,7 @@ jollyjerry@gmail.com.
 ## Resources
 
 * [Personal Finance reddit commontopics](http://www.reddit.com/r/personalfinance/wiki/commontopics) - good guide for the order one should save in.
-* [Bogleheads: Lazy portfolios](http://www.bogleheads.org/wiki/Lazy_portfolios) - I'm using the Core Four portfolio.
+* [Bogleheads: Lazy portfolios](http://www.bogleheads.org/wiki/Lazy_portfolios). No longer using this, only have target retirement index funds.
 * [I Will Teach You to be Rich](http://www.amazon.com/gp/product/0761147489/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0761147489&linkCode=as2&tag=what0d-20) - short, friendly, casual introduction to debit, savings, and retirement
 * [Quora Personal Finance](http://www.quora.com/Personal-Finance) - stopped using this
 * [Random Walk Down Wall Street](http://www.amazon.com/Random-Walk-Down-Wall-Street/dp/0393330338)
