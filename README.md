@@ -6,20 +6,6 @@ can improve. If you have a suggestion, feel free to [file an
 issue](https://github.com/jch/personal-finance/issues) or email me at
 jollyjerry@gmail.com.
 
-## Introduction
-
-Money is a tricky subject to talk about. Every person's situation is different:
-age, salaries, lifestyles, goals. There are many topics, each with it's own
-rules, jargon, headaches. Once I understood the basics of one topic, new
-questions would form in my head, always increasing the choices to be made. The
-rabbit hole had no bottom.
-
-I felt overwhelmed.
-
-To break the gridlock, I organized things I learned into sections, tackling one
-completely before moving onto the next. This list isn't a prescription. It's
-what I found to work for our family.
-
 ## Debt
 
 * Pay off loans
