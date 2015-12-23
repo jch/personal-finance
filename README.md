@@ -24,7 +24,7 @@ jollyjerry@gmail.com.
 
 * Health Savings Account (HSA). Maximize employer contributions.
   * Do not invest until balance would exceed minimum to avoid fees
-  * preferably a plan that allows investment in index funds like Wells Fargo or Health Savings Administrators
+  * Choose a plan that allows investment in index funds like Wells Fargo or Health Savings Administrators
   * Continue to pay medical expenses out of pocket when possible to maximize tax deferred growth
 
 ## Retirement
