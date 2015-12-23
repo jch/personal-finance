@@ -35,12 +35,13 @@ jollyjerry@gmail.com.
 * Choose low cost index funds.
 * Charitable giving. Contributions to eligible organizations can be itemized as a deduction
 
-## Education
+## Children
 
 * [529 plan](http://en.wikipedia.org/wiki/529_plan)
 * [Vanguard 529](https://personal.vanguard.com/us/whatweoffer/college/vanguard529)
   * $3,000 minimum
   * Age based options. I'm using the "moderate" option: starts at 75/25 stock/bond allocation
+* Dependent care FSA. [IRS publication 503](https://www.irs.gov/pub/irs-pdf/p503.pdf)
 
 ## Tools
 
