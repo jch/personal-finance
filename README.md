@@ -10,7 +10,7 @@ jollyjerry@gmail.com.
 
 * Pay off loans, except ones with very low interest. e.g. 0.9% car loan. Builds credit, less than inflation.
 * Never keep a balance on credit cards, auto-pay everything in full
-* Ask for a credit increase every 6 months, don't over do it
+* Ask for a credit increase every year, don't over do it
 * Carry less than 1/3 of credit limit in credit card balance
 * [Check credit score](https://www.annualcreditreport.com) once a year
 * Refinance for a lower interest rate on mortgages or large loans
