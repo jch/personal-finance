@@ -14,6 +14,7 @@ jollyjerry@gmail.com.
 * Carry less than 1/3 of credit limit in credit card balance
 * [Check credit score](https://www.annualcreditreport.com) once a year
 * Refinance for a lower interest rate on mortgages or large loans
+* Consider [401k](https://www.irs.gov/Retirement-Plans/Plan-Participant,-Employee/Retirement-Topics-Loans) loans. Up to $50k, prime rate, and interest and principal are both paid back into the account
 
 ## Liquidity
 
