@@ -21,6 +21,11 @@ jollyjerry@gmail.com.
 * 12 months of expenses in a high interest savings account
 * Budget out large purchases into monthly amounts to save. e.g. car, wedding, vacation
 
+## Compensation
+
+* [The Open Guide to Equity Compensation](https://github.com/jlevy/og-equity-compensation)
+* [Consider Your Options](http://www.amazon.com/Consider-Your-Options-Equity-Compensation/dp/1938797027/ref=dp_ob_title_bk)
+
 ## Medical
 
 * Health Savings Account (HSA). Maximize employer contributions.
