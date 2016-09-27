@@ -12,7 +12,7 @@ jollyjerry@gmail.com.
 * Never keep a balance on credit cards, auto-pay everything in full
 * Ask for a credit increase every year, don't over do it
 * Carry less than 1/3 of credit limit in credit card balance
-* [Check credit score](https://www.annualcreditreport.com) once a year
+* [Check credit score](https://www.annualcreditreport.com) once a year. [CreditKarma](https://www.creditkarma.com) has a better interface and suggestions for improving credit score.
 * Refinance for a lower interest rate on mortgages or large loans
 * Consider [401k](https://www.irs.gov/Retirement-Plans/Plan-Participant,-Employee/Retirement-Topics-Loans) loans. Up to $50k, prime rate, and interest and principal are both paid back into the account
 
