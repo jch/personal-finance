@@ -35,6 +35,8 @@ jollyjerry@gmail.com.
 
 ## Retirement
 
+* [Choose a Retirement Plan](https://www.irs.gov/pub/irs-pdf/p4484.pdf) IRS overview of different plan types. Highlights the benefits of each.
+* [IRS Rollover Chart](https://www.irs.gov/pub/irs-tege/rollover_chart.pdf) shows what retirement plans can be rolled over.
 * Calculate whether Traditional or Roth contribution makes sense for your tax bracket. [calculator](http://www.reddit.com/r/financialindependence/comments/2qua49/roth_vs_traditional_calculator/cn9l3x2). Typically, high income/high tax rate => traditional, low income/low tax rate => roth. Save on taxes now vs save on taxes later.
 * Maximize contributions to tax advantaged accounts: 401k, IRA, HSA.
 * [Backdoor Roth IRA](http://www.bogleheads.org/wiki/Backdoor_Roth_IRA). Pay special attention to [IRA aggregation rule and pro-rata distributions](https://www.kitces.com/blog/the-impact-of-the-ira-aggregation-rule-on-after-tax-distributions-roth-conversions-60-day-rollovers-rmds-and-72t-payments/)
