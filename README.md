@@ -35,6 +35,7 @@ jollyjerry@gmail.com.
 
 ## Retirement
 
+* [Pay less taxes](http://www.npocp.com/taxes) - guide to tax advantaged accounts
 * [Choose a Retirement Plan](https://www.irs.gov/pub/irs-pdf/p4484.pdf) IRS overview of different plan types. Highlights the benefits of each.
 * [IRS Rollover Chart](https://www.irs.gov/pub/irs-tege/rollover_chart.pdf) shows what retirement plans can be rolled over.
 * Calculate whether Traditional or Roth contribution makes sense for your tax bracket. [calculator](http://www.reddit.com/r/financialindependence/comments/2qua49/roth_vs_traditional_calculator/cn9l3x2). Typically, high income/high tax rate => traditional, low income/low tax rate => roth. Save on taxes now vs save on taxes later.
