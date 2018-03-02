@@ -40,7 +40,7 @@ jollyjerry@gmail.com.
 * [IRS Rollover Chart](https://www.irs.gov/pub/irs-tege/rollover_chart.pdf) shows what retirement plans can be rolled over.
 * Calculate whether Traditional or Roth contribution makes sense for your tax bracket. [calculator](http://www.reddit.com/r/financialindependence/comments/2qua49/roth_vs_traditional_calculator/cn9l3x2). Typically, high income/high tax rate => traditional, low income/low tax rate => roth. Save on taxes now vs save on taxes later.
 * Maximize contributions to tax advantaged accounts: 401k, IRA, HSA.
-* [Backdoor Roth IRA](http://www.bogleheads.org/wiki/Backdoor_Roth_IRA). Pay special attention to [IRA aggregation rule and pro-rata distributions](https://www.kitces.com/blog/the-impact-of-the-ira-aggregation-rule-on-after-tax-distributions-roth-conversions-60-day-rollovers-rmds-and-72t-payments/)
+* [Backdoor Roth IRA](http://www.bogleheads.org/wiki/Backdoor_Roth_IRA). Pay special attention to [IRA aggregation rule and pro-rata distributions](https://www.kitces.com/blog/the-impact-of-the-ira-aggregation-rule-on-after-tax-distributions-roth-conversions-60-day-rollovers-rmds-and-72t-payments/), and the [consequences of 'step doctrine' for audits](https://www.kitces.com/blog/how-to-do-a-backdoor-roth-ira-contribution-while-avoiding-the-ira-aggregation-rule-and-the-step-transaction-doctrine/)
 * [After-tax 401k contributions](https://www.kitces.com/blog/irs-notice-2014-54-acquiesces-on-splitting-after-tax-401k-contributions-for-roth-conversion/) and [rollovers](https://www.irs.gov/Retirement-Plans/Rollovers-of-After-Tax-Contributions-in-Retirement-Plans)
 * Choose low cost index funds.
 * Charitable giving. Contributions to eligible organizations can be itemized as a deduction
