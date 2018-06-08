@@ -32,6 +32,7 @@ jollyjerry@gmail.com.
   * Do not invest until balance would exceed minimum to avoid fees
   * Choose a plan that allows investment in index funds like Wells Fargo or Health Savings Administrators
   * Continue to pay medical expenses out of pocket when possible to maximize tax deferred growth
+  * No penalties for non-medical withdrawals after 65. Can use as [another retirement account](https://www.investopedia.com/articles/personal-finance/091615/how-use-your-hsa-retirement.asp).
 
 ## Retirement
 
