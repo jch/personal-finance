@@ -61,6 +61,7 @@ jollyjerry@gmail.com.
 * Vanguard brokerage account. Using this for our Roth IRA and IRA.
 * Setup direct deposit and auto-pay for all accounts.
 * [FI planning tool](http://www.reddit.com/r/financialindependence/comments/2zhw7t/heres_an_fi_planning_tool_i_made_that_might_help/). Interesting to play with, but no longer using it.
+* [You Need a Budget - YNAB](https://www.youneedabudget.com/) Displined walkthrough and awareness of all funds is of significant value, even if used only for the trial period.
 
 ## Resources
 
@@ -75,6 +76,8 @@ jollyjerry@gmail.com.
 * [Quora Personal Finance](http://www.quora.com/Personal-Finance) - stopped using this
 * [Random Walk Down Wall Street](http://www.amazon.com/Random-Walk-Down-Wall-Street/dp/0393330338)
 * [Mr. Money Mustache](http://www.mrmoneymustache.com) - personal finance and early retirement blog
+* [Radical Personal Finance](https://radicalpersonalfinance.com/ ) - Thoughtful introduction of financial perspectives. Minimalist view.
+* [Khan Avademy - Personal Finance ](https://www.khanacademy.org/college-careers-more/personal-finance) - Excellent presentation, focused at college age, of value to all ages.
 
 ## Recommended by others
 
