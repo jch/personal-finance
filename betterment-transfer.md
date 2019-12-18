@@ -8,6 +8,7 @@
 - 12/12 Transfer initiated email
 - 12/16 Outgoing transfer complete email
 - 12/17 Cost basis PDF available in Betterment activity tab
+- Waiting "The cost basis typically transfers over 2-4 weeks after the positions.  However, if we’re not seeing them in by mid-January, there’s a form you can fill out to which you can then attach the Betterment print out.  We can then update the positions manually"
 - Fractional shares are not transferred (but fractional shares are reflected in cost basis PDF)
 - Betterment account remains open after transfer, so you can still access your documents
 
