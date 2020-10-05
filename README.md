@@ -48,7 +48,7 @@ jollyjerry@gmail.com.
 
 ## Children
 
-* [529 plan](http://en.wikipedia.org/wiki/529_plan)
+* [529 plan](http://en.wikipedia.org/wiki/529_plan). For non-qualified expenses, principal can be withdrawn without penalty, but withdrawals will be proportional principal and earnings. [source](https://www.kiplinger.com/article/college/T002-C001-S003-spending-leftover-money-529-college-savings-plan.html)
 * [Vanguard 529](https://personal.vanguard.com/us/whatweoffer/college/vanguard529)
   * $3,000 minimum
   * Age based options. I'm using the "moderate" option: starts at 75/25 stock/bond allocation
