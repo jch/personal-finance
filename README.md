@@ -14,6 +14,7 @@ jollyjerry@gmail.com.
 * Carry less than 1/3 of credit limit in credit card balance
 * [Check credit score](https://www.annualcreditreport.com) once a year. [CreditKarma](https://www.creditkarma.com) has a better interface and suggestions for improving credit score.
 * Refinance for a lower interest rate on mortgages or large loans
+* Ask mortgage lender for a half dozen pre-approval letters in 25k increments up to the max. Prevents seller from seeing your max purchase power.
 * Consider [401k](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-loans) loans. Up to $50k, prime rate, and interest and principal are both paid back into the account
 
 ## Liquidity
