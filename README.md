@@ -77,8 +77,6 @@ jollyjerry@gmail.com.
 * [Quora Personal Finance](http://www.quora.com/Personal-Finance) - stopped using this
 * [Random Walk Down Wall Street](http://www.amazon.com/Random-Walk-Down-Wall-Street/dp/0393330338)
 * [Mr. Money Mustache](http://www.mrmoneymustache.com) - personal finance and early retirement blog
-* [Radical Personal Finance](https://radicalpersonalfinance.com/ ) - Thoughtful introduction of financial perspectives. Minimalist view.
-* [Khan Avademy - Personal Finance ](https://www.khanacademy.org/college-careers-more/personal-finance) - Excellent presentation, focused at college age, of value to all ages.
 
 ## Recommended by others
 
@@ -86,3 +84,5 @@ jollyjerry@gmail.com.
 * [The Only Investment Guide You Will Ever Need](http://www.amazon.com/Only-Investment-Guide-Youll-Ever/dp/0547447256/ref=sr_1_1?s=books&ie=UTF8&qid=1387568480&sr=1-1&keywords=only+investment+guide)
 * [Money and Other Subjects](http://www.andrewtobias.com/column)
 * [Pete Jackson feedback](https://github.com/jch/personal-finance/pull/2/files)
+* [Radical Personal Finance](https://radicalpersonalfinance.com/ ) - Thoughtful introduction of financial perspectives. Minimalist view.
+* [Khan Avademy - Personal Finance ](https://www.khanacademy.org/college-careers-more/personal-finance) - Excellent presentation, focused at college age, of value to all ages.
