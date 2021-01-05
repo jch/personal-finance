@@ -81,6 +81,7 @@ jollyjerry@gmail.com.
 ## Entertainment
 
 * [Money stuff](https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine) regular column by ex-Goldman Sachs trader
+* [Planet Money](https://www.npr.org/sections/money/) podcast
 
 ## Recommended by others
 
