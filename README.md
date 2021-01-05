@@ -78,6 +78,10 @@ jollyjerry@gmail.com.
 * [Random Walk Down Wall Street](http://www.amazon.com/Random-Walk-Down-Wall-Street/dp/0393330338)
 * [Mr. Money Mustache](http://www.mrmoneymustache.com) - personal finance and early retirement blog
 
+## Entertainment
+
+* [Money stuff](https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine) regular column by ex-Goldman Sachs trader
+
 ## Recommended by others
 
 * [How To Get Rich](http://www.amazon.com/How-Get-Rich-Greatest-Entrepreneurs/dp/1591842719)
