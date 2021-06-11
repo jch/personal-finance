@@ -20,6 +20,7 @@ issue](https://github.com/jch/personal-finance/issues).
 
 * 12 months of expenses in a high interest savings account
 * Budget out large purchases into monthly amounts to save. e.g. car, wedding, vacation
+* "Liquidity access lines" to borrow against your portfolio
 
 ## Compensation
 
