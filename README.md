@@ -3,8 +3,7 @@
 This is an outline of our personal finance plan. I'm sharing this as a starting
 point for others to form their own plan, and also to gather feedback on what we
 can improve. If you have a suggestion, feel free to [file an
-issue](https://github.com/jch/personal-finance/issues) or email me at
-jollyjerry@gmail.com.
+issue](https://github.com/jch/personal-finance/issues).
 
 ## Debt
 
@@ -57,8 +56,8 @@ jollyjerry@gmail.com.
 
 ## Tools
 
-* Monthly review of spending with [Mint](https://www.mint.com). Categorize
-  spending, note any large differences in monthly trends. Link all accounts.
+* Review of spending with [Mint](https://www.mint.com) or [Personal Capital](https://pcap.rocks/j75869). Categorize
+  spending, note any large differences in monthly trends. Link all accounts. Mint is better for budgeting, but Personal Capital does a better job with investment tracking. I use the latter now.
 * Vanguard brokerage account. Using this for our Roth IRA and IRA.
 * Setup direct deposit and auto-pay for all accounts.
 * [FI planning tool](http://www.reddit.com/r/financialindependence/comments/2zhw7t/heres_an_fi_planning_tool_i_made_that_might_help/). Interesting to play with, but no longer using it.
