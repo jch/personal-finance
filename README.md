@@ -15,6 +15,7 @@ issue](https://github.com/jch/personal-finance/issues).
 * Refinance for a lower interest rate on mortgages or large loans
 * Ask mortgage lender for a half dozen pre-approval letters in 25k increments up to the max. Prevents seller from seeing your max purchase power.
 * Consider [401k](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-loans) loans. Up to $50k, prime rate, and interest and principal are both paid back into the account
+* Consider personal loans or personal line of credit for debt consolidation. Example "First Republic Personal Line of Credit" 2.25 - 3.5%, interest only first 2 years, then amortized for remainder of the loan. Total terms from 5 - 10 years.
 
 ## Liquidity
 
