@@ -1,4 +1,4 @@
-# How to pay less taxes
+# Taxes
 
 > "Like mothers, taxes are often misunderstood, but seldom forgotten.'' — Lord Bramwell, 19th Century English jurist https://www.irs.gov/uac/tax-quotes
 
