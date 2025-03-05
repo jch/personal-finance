@@ -18,6 +18,7 @@ This is an outline of our personal finance plan. Feel free to fork it and make y
 ## Liquidity
 
 * 12 months of expenses in a high interest savings account
+* Consider tax-exempt treasury funds like FDLXX if in a high tax state. [The Finance Buff](https://thefinancebuff.com/state-tax-exempt-treasury-fund-etf.html)
 * Budget out large purchases into monthly amounts to save. e.g. car, wedding, vacation
 * "Liquidity access lines" to borrow against your portfolio
 
