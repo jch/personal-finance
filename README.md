@@ -24,7 +24,7 @@ This is an outline of our personal finance plan. Feel free to fork it and make y
 * Budget out large purchases into monthly amounts to save. e.g. car, wedding, vacation
 * "Liquidity access lines" to borrow against your portfolio
 
-## Compensation
+## Equity compensation
 
 * [The Open Guide to Equity Compensation](https://github.com/jlevy/og-equity-compensation)
 * [Consider Your Options](http://www.amazon.com/Consider-Your-Options-Equity-Compensation/dp/1938797027/ref=dp_ob_title_bk)
