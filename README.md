@@ -1,9 +1,6 @@
 # Personal Finance [![Creative Commons](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/deed.en_US)
 
-This is an outline of our personal finance plan. I'm sharing this as a starting
-point for others to form their own plan, and also to gather feedback on what we
-can improve. If you have a suggestion, feel free to [file an
-issue](https://github.com/jch/personal-finance/issues).
+This is an outline of our personal finance plan. Feel free to fork it and make your own!
 
 # I'd like to make financial advice accessible to everyone
 
