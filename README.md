@@ -72,6 +72,7 @@ This is an outline of our personal finance plan. Feel free to fork it and make y
 
 ## Resources
 
+* [r/financialindependence](https://www.reddit.com/r/financialindependence/)
 * [Personal Finance reddit commontopics](http://www.reddit.com/r/personalfinance/wiki/commontopics) - good guide for the order one should save in.
 * Reddit guidelines for each age group
   * [ELI18: Personal finance tips for young adults (US)](https://www.reddit.com/r/personalfinance/comments/4tfc76/eli18_personal_finance_tips_for_young_adults_us/)
@@ -80,8 +81,8 @@ This is an outline of our personal finance plan. Feel free to fork it and make y
   * [ELI40: personal finance tips to make best use of your assets (US)](https://www.reddit.com/r/personalfinance/comments/4uuejg/eli40_personal_finance_tips_to_make_best_use_of/)
 * [Bogleheads: Lazy portfolios](http://www.bogleheads.org/wiki/Lazy_portfolios). No longer using this, only have target retirement index funds.
 * [I Will Teach You to be Rich](http://www.amazon.com/gp/product/0761147489/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0761147489&linkCode=as2&tag=what0d-20) - short, friendly, casual introduction to debit, savings, and retirement
-* [Quora Personal Finance](http://www.quora.com/Personal-Finance) - stopped using this
 * [Random Walk Down Wall Street](http://www.amazon.com/Random-Walk-Down-Wall-Street/dp/0393330338)
+* [Lifecycle investing](https://www.lifecycleinvesting.net) using mild leverage for temporal diversification
 * [Mr. Money Mustache](http://www.mrmoneymustache.com) - personal finance and early retirement blog
 
 ## Entertainment
@@ -93,3 +94,4 @@ This is an outline of our personal finance plan. Feel free to fork it and make y
 ## Not recommended
 
 * [You Need a Budget - YNAB](https://www.youneedabudget.com/) too much work, prefer to look back at spending than project forward
+* [Quora Personal Finance](http://www.quora.com/Personal-Finance) - stopped using this
