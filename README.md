@@ -59,12 +59,20 @@ This is an outline of our personal finance plan. Feel free to fork it and make y
 
 ## Tools
 
-* Review of spending with [Mint](https://www.mint.com) or [Personal Capital](https://pcap.rocks/j75869). Categorize
-  spending, note any large differences in monthly trends. Link all accounts. Mint is better for budgeting, but Personal Capital does a better job with investment tracking. I use the latter now.
+* [jch.app](https://jch.app) investment, networth, dividend tracking
+* Review of spending with [Personal Capital](https://pcap.rocks/j75869) or Fidelity Full View. Categorize
+  spending, note any large differences in monthly trends. Link all accounts.
 * Vanguard brokerage account. Using this for our Roth IRA and IRA.
 * Setup direct deposit and auto-pay for all accounts.
 * [FI planning tool](http://www.reddit.com/r/financialindependence/comments/2zhw7t/heres_an_fi_planning_tool_i_made_that_might_help/). Interesting to play with, but no longer using it.
 * [You Need a Budget - YNAB](https://www.youneedabudget.com/) Displined walkthrough and awareness of all funds is of significant value, even if used only for the trial period.
+
+## Brokerages
+
+- Merril: Integrates well with Bank of America for retail banking, Preferred Rewards program good for credit cards, loan discounts.
+- Morgan Stanley: Felt harder to self service. Amex Platinum paired card.
+- Fidelity: Great phone support, free wires, 2% cashback card.
+- Vanguard: I like the simplicity of their website, and mobile app. I use it for our IRA, Roth IRAs, and 529.
 
 ## Resources
 
@@ -92,4 +100,4 @@ This is an outline of our personal finance plan. Feel free to fork it and make y
 * [Money and Other Subjects](http://www.andrewtobias.com/column)
 * [Pete Jackson feedback](https://github.com/jch/personal-finance/pull/2/files)
 * [Radical Personal Finance](https://radicalpersonalfinance.com/ ) - Thoughtful introduction of financial perspectives. Minimalist view.
-* [Khan Avademy - Personal Finance ](https://www.khanacademy.org/college-careers-more/personal-finance) - Excellent presentation, focused at college age, of value to all ages.
+* [Khan Academy - Personal Finance ](https://www.khanacademy.org/college-careers-more/personal-finance) - Excellent presentation, focused at college age, of value to all ages.
