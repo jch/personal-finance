@@ -2,10 +2,6 @@
 
 This is an outline of our personal finance plan. Feel free to fork it and make your own!
 
-# I'd like to make financial advice accessible to everyone
-
-**Looking for people to talk to and learn more about the problem space. I don't have anything to pitch, but would love to chat. Please email me at jollyjerry@gmail.com or file an issue**
-
 ## Debt
 
 * Pay off loans, except ones with very low interest. e.g. 0.9% car loan. Builds credit, less than inflation.
