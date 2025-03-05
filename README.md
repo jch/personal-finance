@@ -90,14 +90,6 @@ This is an outline of our personal finance plan. Feel free to fork it and make y
 * [Planet Money](https://www.npr.org/sections/money/) podcast
 * [FI planning tool](http://www.reddit.com/r/financialindependence/comments/2zhw7t/heres_an_fi_planning_tool_i_made_that_might_help/). Interesting to play with, but no longer using it.
 
+## Not recommended
 
-## Recommended by others
-
-* [How To Get Rich](http://www.amazon.com/How-Get-Rich-Greatest-Entrepreneurs/dp/1591842719)
-* [The Only Investment Guide You Will Ever Need](http://www.amazon.com/Only-Investment-Guide-Youll-Ever/dp/0547447256/ref=sr_1_1?s=books&ie=UTF8&qid=1387568480&sr=1-1&keywords=only+investment+guide)
-* [Money and Other Subjects](http://www.andrewtobias.com/column)
-* [Pete Jackson feedback](https://github.com/jch/personal-finance/pull/2/files)
-* [Radical Personal Finance](https://radicalpersonalfinance.com/ ) - Thoughtful introduction of financial perspectives. Minimalist view.
-* [Khan Academy - Personal Finance ](https://www.khanacademy.org/college-careers-more/personal-finance) - Excellent presentation, focused at college age, of value to all ages.
-* [You Need a Budget - YNAB](https://www.youneedabudget.com/) Displined walkthrough and awareness of all funds is of significant value, even if used only for the trial period.
-
+* [You Need a Budget - YNAB](https://www.youneedabudget.com/) too much work, prefer to look back at spending than project forward
