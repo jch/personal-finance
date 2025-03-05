@@ -4,12 +4,14 @@ This is an outline of our personal finance plan. Feel free to fork it and make y
 
 ## Debt
 
-* Pay off loans, except ones with very low interest. e.g. 0.9% car loan. Builds credit, less than inflation.
-* Never keep a balance on credit cards, auto-pay everything in full
-* Ask for a credit increase every year, don't over do it
-* Carry less than 1/3 of credit limit in credit card balance
+* Pay off highest interest loans first, keep loans with rates lower than inflation
+* Auto pay credit cards
+* Carry less than 1/3 of credit limit in credit card balance. Ask for credit limit increases if needed.
 * [Check credit score](https://www.annualcreditreport.com) once a year. [CreditKarma](https://www.creditkarma.com) has a better interface and suggestions for improving credit score.
 * Refinance for a lower interest rate on mortgages or large loans
+
+## Loans
+
 * Ask mortgage lender for a half dozen pre-approval letters in 25k increments up to the max. Prevents seller from seeing your max purchase power.
 * Consider [401k](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-loans) loans. Up to $50k, prime rate, and interest and principal are both paid back into the account
 * Consider personal loans or personal line of credit for debt consolidation. Example "First Republic Personal Line of Credit" 2.25 - 3.5%, interest only first 2 years, then amortized for remainder of the loan. Total terms from 5 - 10 years.
