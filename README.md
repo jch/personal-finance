@@ -47,7 +47,7 @@ This is an outline of our personal finance plan. Feel free to fork it and make y
 * [Backdoor Roth IRA](http://www.bogleheads.org/wiki/Backdoor_Roth_IRA). Pay special attention to [IRA aggregation rule and pro-rata distributions](https://www.kitces.com/blog/the-impact-of-the-ira-aggregation-rule-on-after-tax-distributions-roth-conversions-60-day-rollovers-rmds-and-72t-payments/), and the [consequences of 'step doctrine' for audits](https://www.kitces.com/blog/how-to-do-a-backdoor-roth-ira-contribution-while-avoiding-the-ira-aggregation-rule-and-the-step-transaction-doctrine/)
 * [After-tax 401k contributions](https://www.kitces.com/blog/irs-notice-2014-54-acquiesces-on-splitting-after-tax-401k-contributions-for-roth-conversion/) and [rollovers](https://www.irs.gov/Retirement-Plans/Rollovers-of-After-Tax-Contributions-in-Retirement-Plans)
 * Choose low cost index funds.
-* Charitable giving. Contributions to eligible organizations can be itemized as a deduction
+* Charitable giving. Contributions to eligible organizations can be itemized as a deduction. Donor Advised Funds (DAF) can deduct from high tax years and defer gifts until later.
 
 ## Children
 
