@@ -73,6 +73,7 @@ This is an outline of our personal finance plan. Feel free to fork it and make y
 
 ## Resources
 
+* [HENRY's Guides: Taxes, Loans, Car Buying](https://jch.github.io/posts/2025-05-14-henrys-guide-taxes-loans-cars.html)
 * [r/financialindependence](https://www.reddit.com/r/financialindependence/)
 * [Personal Finance reddit commontopics](http://www.reddit.com/r/personalfinance/wiki/commontopics) - good guide for the order one should save in.
 * Reddit guidelines for each age group
